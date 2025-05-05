@@ -44,7 +44,7 @@ Você pode adicionar imagens, capturas de tela ou quadros criados diretamente no
 
 ### 3. Exemplo Projeto no Figma
 
-Elaboramos uma versão reduzida de um protótipo de alta fidelidade encontrado na Comunidade Figma e deixamos disponível como exemplo para vocês. Acesse aqui a [Referência para a Atividade Ponderada 3 de UX](https://www.figma.com/design/VSY3yMxGoDbEI16SldusjL/Refer%C3%AAncia-para-a-Atividade-Ponderada-3-de-UX.?node-id=25-145&t=HXeq6RI8UUhn6BuM-1).
+Elaboramos uma versão reduzida de um protótipo de alta fidelidade encontrado na Comunidade Figma e deixamos disponível como exemplo para vocês. Acesse aqui a [Referência para a Atividade Ponderada 3 de UX](https://www.figma.com/design/LWd8f6SAByDWMff6S3RzXH/Ref-Ponderada-3-de-UX?node-id=25-145&t=3OH3zrJNBIubKjxm-1).
 
 ![Exemplo de Protótipo de Alta Fidelidade](Ex-PrototipoAlta.png)
 
