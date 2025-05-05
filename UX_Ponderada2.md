@@ -17,7 +17,7 @@ Desenvolver e documentar os **wireframes de baixa fidelidade** para o sistema pr
 
 ### 1. Wireframes
 
-Desenhe os wireframes das principais telas do seu projeto individual. Você pode usar ferramentas digitais como **Figma** (❤️), **FigJam**, **Miro** ou até o **Canva** (😭), mas também é totalmente válido fazer os rascunhos à mão e inserir fotografias dos desenhos na documentação.
+Desenhe os wireframes das principais telas do seu projeto individual. Você pode usar ferramentas digitais como Figma (❤️), FigJam, Miro ou até o Canva (😭), mas também é totalmente válido fazer os rascunhos à mão e inserir fotografias dos desenhos na documentação.
 
 > Os wireframes devem priorizar a estrutura, a navegação e a disposição dos elementos, garantindo que as User Stories sejam representadas no projeto — sem o uso de cores, estilos visuais, tipografias, imagens realistas ou qualquer outro elemento com aparência final.
 
