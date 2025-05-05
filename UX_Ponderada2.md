@@ -37,7 +37,7 @@ Você também pode incluir um link complementar para os arquivos digitais (Googl
 > Não é necessário explicar o que é um wireframe, mas é importante garantir que o leitor compreenda os rascunhos, sua relação com as US e as funcionalidades do projeto.
 
 
-## ✅ Checklist antes de enviar
+### ✅ Checklist antes de enviar
 
 - [ ] Os wireframes estão alinhados com as funcionalidades descritas nas User Stories?
 - [ ] Há um pequeno texto indicando a relação daqueles wireframes com as US apresentadas?
@@ -45,3 +45,5 @@ Você também pode incluir um link complementar para os arquivos digitais (Googl
 - [ ] Os arquivos foram inseridos no repositório e mencionados corretamente no PI-WAD.md?
 - [ ] As imagens estão visíveis e os links complementares funcionam?
 - [ ] O link do repositório foi inserido no card da AdaLove?
+
+
