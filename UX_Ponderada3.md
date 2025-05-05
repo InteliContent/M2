@@ -49,7 +49,7 @@ Elaboramos uma versão reduzida de um protótipo de alta fidelidade encontrado n
 
 ![Exemplo de Protótipo de Alta Fidelidade](Ex-PrototipoAlta.png)
 
-## ✅ Checklist antes de enviar
+### ✅ Checklist antes de enviar
 
 - [ ] As telas do protótipo estão representadas visualmente na seção 3.5 do `PI-WAD.md`?
 - [ ] O protótipo segue as funcionalidades previstas nas User Stories e wireframes anteriores? As alterações foram justificadas?
