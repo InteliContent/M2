@@ -21,20 +21,21 @@ Desenhe os wireframes das principais telas do seu projeto individual. Você pode
 
 > Os wireframes devem priorizar a estrutura, a navegação e a disposição dos elementos, garantindo que as User Stories sejam representadas no projeto — sem o uso de cores, estilos visuais, tipografias, imagens realistas ou qualquer outro elemento com aparência final.  
 
-<figure style="text-align: center; margin: 3em auto;">
-  <img src="highLowFidelityWireframe.png" alt="Wireframes de Baixa e Alta Fidelidade" style="width: 70%; max-width: 700px; height: auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9rem; color: #555; margin-top: 0.5em;">
-    Figura 1: Wireframes de Baixa e Alta Fidelidade. Disponível em <a href="https://www.interaction-design.org/literature/topics/wireframe" target="_blank">Interaction Design Foundation</a>.
-  </figcaption>
-</figure>
+<br>  
 
-<figure style="text-align: center; margin: 3em auto;">
-  <img src="Ex-Wireframe.png" alt="Wireframe de Alta Fidelidade com anotações" style="width: 70%; max-width: 700px; height: auto; border-radius: 8px;">
-  <figcaption style="font-size: 0.9rem; color: #555; margin-top: 0.5em;">
-    Figura 2: Wireframe de Alta Fidelidade. Repare que, no wireframe, podemos deixar anotações sobre comportamentos ou detalhes da estrutura. Disponível em <a href="https://www.visual-paradigm.com/learning/handbooks/agile-handbook/wireframe.jsp" target="_blank">Visual Paradigm</a>.
-  </figcaption>
-</figure>
- 
+<p align="center">
+  <img src="highLowFidelityWireframe.png" width="60%">
+</p>
+<p align="center"><em>Figura 1: Wireframes de Baixa e Alta Fidelidade. Fonte: <a href="https://www.interaction-design.org/literature/topics/wireframe">Interaction Design Foundation</a>.</em></p>  
+
+<br>  
+
+<p align="center">
+  <img src="Ex-Wireframe.png" width="60%">
+</p>
+<p align="center"><em>Figura 2: Wireframe de Alta Fidelidade com anotações. Fonte: <a href="https://www.visual-paradigm.com/learning/handbooks/agile-handbook/wireframe.jsp">Visual Paradigm</a>.</em></p>  
+
+<br>  
 
 **Telas obrigatórias:**  
 - Tela principal de uso (ex: listagem geral, calendário de agendamentos, etc.)
