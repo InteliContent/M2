@@ -24,7 +24,7 @@ Desenhe os wireframes das principais telas do seu projeto individual. Você pode
 <br>  
 
 <p align="center">
-  <img src="Exemplo/highLowFidelityWireframe.png" width="70%">
+  <img src="Exemplo/Fidelidade-Wireframe.png" width="70%">
 </p>
 <p align="center"><em>Figura 1: Wireframes de Baixa e Alta Fidelidade. Fonte: <a href="https://www.interaction-design.org/literature/topics/wireframe">Interaction Design Foundation</a>.</em></p>  
 
