@@ -24,14 +24,14 @@ Desenhe os wireframes das principais telas do seu projeto individual. Você pode
 <br>  
 
 <p align="center">
-  <img src="Exemplo/highLowFidelityWireframe.png" width="60%">
+  <img src="Exemplo/highLowFidelityWireframe.png" width="70%">
 </p>
 <p align="center"><em>Figura 1: Wireframes de Baixa e Alta Fidelidade. Fonte: <a href="https://www.interaction-design.org/literature/topics/wireframe">Interaction Design Foundation</a>.</em></p>  
 
 <br>  
 
 <p align="center">
-  <img src="Exemplo/Ex-Wireframe.png" width="60%">
+  <img src="Exemplo/Ex-Wireframe.png" width="70%">
 </p>
 <p align="center"><em>Figura 2: Wireframe de Alta Fidelidade com anotações. Fonte: <a href="https://www.visual-paradigm.com/learning/handbooks/agile-handbook/wireframe.jsp">Visual Paradigm</a>.</em></p>  
 
