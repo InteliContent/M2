@@ -268,7 +268,7 @@ E testar os endpoints do CRUD (usando o Postman ou outra ferramenta similar):
 3. **Editar uma tarefa** (PUT `/api/tarefas/:id`)
 4. **Excluir uma tarefa** (DELETE `/api/tarefas/:id`)
 
-### Etapa 4 — Arquitetura MVC
+### Etapa 3 — Arquitetura MVC
 A Arquitetura MVC (Model-View-Controller) é uma abordagem que organiza a aplicação em três componentes principais:
 
 - `Model`: Representa a estrutura dos dados e interage diretamente com o banco de dados. No seu projeto, a modelagem dos dados é feita por meio de comandos SQL, sem o uso de ORM, onde a estrutura das tabelas é criada e gerenciada diretamente com SQL.
@@ -297,7 +297,7 @@ Para criar o diagrama de arquitetura MVC (Model-View-Controller), siga estas eta
 
 Use este exemplo como referência: https://github.com/kterra/Inteli-2024-1B/blob/main/materiais/ponderada-2/exemplo-arq-v2.jpg
 
-### Etapa 5 — Atulizando a documentação
+### Etapa 4 — Atulizando a documentação
 
 Adicione a documentação sobre como configurar o banco de dados, como rodar as migrações e como testar as APIs. 
 
